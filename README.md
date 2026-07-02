@@ -98,7 +98,7 @@ Open the fully interactive local HTML reporting viewer to audit metrics, step ti
 Bash
 npx playwright show-report
 
-##6. Continuous Integration (CI/CD) Pipeline
+## 6. Continuous Integration (CI/CD) Pipeline
 
 A dedicated GitHub Actions quality gate is defined in .github/workflows/playwright.yml.
 
