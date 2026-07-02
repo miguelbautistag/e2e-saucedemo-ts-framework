@@ -1,0 +1,13 @@
+{
+  "name": "e2e-saucedemo-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SauceDemo Production-Grade UI Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
