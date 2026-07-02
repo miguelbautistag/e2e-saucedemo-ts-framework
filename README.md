@@ -16,7 +16,7 @@ This platform implements a strict **Layered Quality Engineering Architecture** d
 
 ### Framework Directory Structure
 
-automation/e2e-saucedemo-ts/
+'''automation/e2e-saucedemo-ts/
 ├── .github/workflows/      # CI/CD Quality Gate Workflow Automation
 │   └── playwright.yml
 ├── auth/                   # Dynamic StorageState Session State Cache Directory (Git Ignored)
@@ -34,7 +34,7 @@ automation/e2e-saucedemo-ts/
 │   └── inventory.spec.ts   # Catalogue SLAs & Storage Injection Performance Metrics
 ├── playwright.config.ts    # Global Core Runtime & Multi-Browser Project Matrix
 ├── package.json            # Application Manifest & Run Scripts
-└── llm-prompts.md          # Human-AI Co-Pilot Engineering Audit Trail
+└── llm-prompts.md          # Human-AI Co-Pilot Engineering Audit Trail'''
 
 ---
 
